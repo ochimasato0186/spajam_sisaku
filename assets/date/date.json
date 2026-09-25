@@ -1,0 +1,10 @@
+{
+  "qr": {
+    "title": "SPAJAM QR",
+    "value": "SPAJAM_TEST_001"
+  },
+  "barcode": {
+    "title": "SPAJAM BARCODE",
+    "value": "SPAJAM001"
+  }
+}
